@@ -1,3 +1,8 @@
+*/
+@Developer: Danish Ali 
+@Date: 19-01-2025
+@Description: Calculator in Java
+/*
 import java.util.Scanner;
 
 public class Calculator {
