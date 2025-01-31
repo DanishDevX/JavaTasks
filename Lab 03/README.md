@@ -1,4 +1,4 @@
-# Danish Ali's Java Lab 02 Projects
+# Danish Ali's Java Lab 03 Projects
 
 Hello! My name is **Danish Ali** and I am a **2nd-semester student** at **The Aror University Of Art, Architecture, Design & Heritage Sukkur Sindh Pakistan**. I have created several small Java programs as part of my coursework and personal projects. These programs aim to help me better understand and practice Java programming concepts.
 
